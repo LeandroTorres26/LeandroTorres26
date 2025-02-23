@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a front-end developer with a keen interest in 
 ## 📫 How to Reach Me
 
 - **Email:** leandro_st00@hotmail.com
-- **LinkedIn:** [Leandro Torres]([https://www.linkedin.com/in/leandrotorres26/](https://www.linkedin.com/in/leandro-torres-front-end/))
+- **LinkedIn:** [Leandro Torres](https://www.linkedin.com/in/leandro-torres-front-end/)
 
 ## 🌟 Projects
 
