@@ -1,44 +1,63 @@
-# Hi, I'm Leandro Torres! 👋
+# Hi, I'm Leandro Torres 👋
 
-Welcome to my GitHub profile! I'm a front-end developer specialized in E-commerce solutions, with a keen interest in web development and continuous learning.
+**Front-End Engineer · 5 years building high-traffic e-commerce storefronts**
+React · Next.js · TypeScript · VTEX IO · Shopify
 
-I am currently pursuing a degree in **Systems Analysis and Development** at **Fatec**. Here you'll find a collection of my projects, contributions, and explorations in the world of coding.
-
-## 🛒 E-commerce Expertise
-
-I have solid experience building and maintaining stores on major platforms:
-* **VTEX** (IO & CMS)
-* **Shopify** (Liquid & Hydrogen)
-* **Vnda**
-
-## 🛠 Technologies & Tools
-
-- **Languages:** JavaScript (ES6+), TypeScript, C, C++
-- **Frontend:** React, Next.js, Vue.js, jQuery, Tailwind CSS, Sass
-- **Backend & DB:** Node.js, MySQL
-- **Tools:** Git, Google Tag Manager (GTM), Google Analytics (GA4), VS Code
-
-## 🌱 Currently Learning
-
-- MongoDB, Mongoose, and Atlas
-- NextAuth.js
-- DSA (Data Structures and Algorithms)
-
-## 🌟 Projects
-
-Here are a few projects I've been working on:
-
-- [**My Media Catalogue**](https://github.com/LeandroTorres26/my-media-catalogue): A catalogue to help you follow all the different media you watch across the internet
-
-## 📫 How to Reach Me
-
-- **Email:** leandro_st00@hotmail.com
-- **LinkedIn:** [Leandro Torres](https://www.linkedin.com/in/leandro-torres-front-end/)
-
-## 💬 Let's Connect
-
-I'm always open to new opportunities, mainly in the e-commerce ecosystem. Let's connect and create something amazing together!
+I work mostly with web performance and technical SEO applied to online retail. Currently at [We.Digi](https://we.digital), shipping projects for multiple clients in parallel, and studying Systems Analysis and Development at Fatec Baixada Santista.
 
 ---
 
-Thanks for visiting my profile! Have a great day! 😊
+## ⚡ Highlights from my day job
+
+- **Perfect CLS score and LCP up to 25% faster** on production VTEX IO stores, through lazy loading, dead code removal, and CSS architecture optimization
+- **+50% organic clicks and +100% impressions** on a home decor store, working on heading tag hierarchy on PLPs, fixing keyword cannibalization, and indexation. Primary keyword moved from position 45 to position 3 on Google
+- Introduced Jest and React Testing Library on VTEX IO components, and set up CI workflows to validate performance pre and post-deploy
+
+---
+
+## 🛠️ Tech I work with
+
+**Daily:** React, Next.js, TypeScript, JavaScript (ES6+), Node.js, Tailwind CSS, Liquid, Jest, REST APIs, GraphQL
+**E-commerce platforms:** VTEX IO, VTEX CMS, Shopify, Olist VNDA, Deco.cx
+**Analytics & SEO:** Google Analytics 4, Google Tag Manager, dataLayer instrumentation, technical SEO
+**Tooling:** Git, CI/CD, Claude Code, AI-assisted development
+
+---
+
+## 🌱 Currently exploring
+
+- Backend fundamentals with Node.js, MongoDB, and Mongoose
+- Authentication patterns with NextAuth.js
+- Data Structures and Algorithms (academic side)
+
+---
+
+## 🚀 Selected projects (Just for fun)
+
+### [Smart Recipe](https://github.com/LeandroTorres26/smart-recipe)
+Recipe generator powered by Google Gemini. Built with Vue and TypeScript. Explored prompt engineering, API integration, and frontend state management for AI responses.
+
+### [My Media Catalogue](https://github.com/LeandroTorres26/my-media-catalogue)
+A personal catalogue to track movies, series, books, and other media across platforms.
+
+### [Portfolio](https://leandro-torres-portfolio.vercel.app)
+Personal portfolio site with project showcase.
+
+---
+
+## 📊 GitHub stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=LeandroTorres26&show_icons=true&theme=tokyonight&hide_border=true" alt="Leandro's GitHub stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroTorres26&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" height="170"/>
+</p>
+
+---
+
+## 📫 Get in touch
+
+- **LinkedIn:** [linkedin.com/in/leandro-torres-front-end](https://www.linkedin.com/in/leandro-torres-front-end/)
+- **Email:** leandro_st000@hotmail.com
+- **Portfolio:** [leandro-torres-portfolio.vercel.app](https://leandro-torres-portfolio.vercel.app)
+
+English: C1 Advanced (TOEIC 935/990).
