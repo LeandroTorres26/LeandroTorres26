@@ -45,15 +45,6 @@ Personal portfolio site with project showcase.
 
 ---
 
-## 📊 GitHub stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=LeandroTorres26&show_icons=true&theme=tokyonight&hide_border=true" alt="Leandro's GitHub stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroTorres26&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" height="170"/>
-</p>
-
----
-
 ## 📫 Get in touch
 
 - **LinkedIn:** [linkedin.com/in/leandro-torres-front-end](https://www.linkedin.com/in/leandro-torres-front-end/)
